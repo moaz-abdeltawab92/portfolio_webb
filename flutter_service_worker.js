@@ -81,6 +81,7 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 ".git/refs/remotes/origin/master": "21031121b9ee8ee7c69cf4a0cde89e40",
 "assets/asset/images/aa.jpg": "cc333e5f110efe83f7cd20eb3f1965ee",
 "assets/asset/images/book.png": "fbc7e83aa6435c255ac069bdf4ebbf4f",
+<<<<<<< HEAD
 "assets/asset/images/doc.png": "487b2d53a39d78a67ec7c5f8f5f0bfcd",
 "assets/asset/images/newsssss.png": "abec220c27937b9615ec67d6ef6b4238",
 "assets/asset/images/notes.png": "76111da15fbbaefb492b1d7fd893feeb",
@@ -88,6 +89,18 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "assets/AssetManifest.bin": "d26a9540fb14a9ebb054d235ee92c947",
 "assets/AssetManifest.bin.json": "8fc65f23c4438b6a9fb65442d1a73c12",
 "assets/AssetManifest.json": "ff5ddd43d40fa2b5b1ab4d404ee6417b",
+=======
+"assets/asset/images/casheir.png": "78af7ef13616296f3d1a36c3a0fe48b5",
+"assets/asset/images/doc.png": "487b2d53a39d78a67ec7c5f8f5f0bfcd",
+"assets/asset/images/newsssss.png": "abec220c27937b9615ec67d6ef6b4238",
+"assets/asset/images/notes.png": "76111da15fbbaefb492b1d7fd893feeb",
+"assets/asset/images/poss.png": "da08478ca9bdb5dca299974cad658cd6",
+"assets/asset/images/routiner.png": "991b108c739b9d5929a4d2036b8a3fd9",
+"assets/asset/images/tazkirra.png": "4c990b6f4583faa84352781890ae2893",
+"assets/AssetManifest.bin": "f6cca80f40041db003450be8d802531d",
+"assets/AssetManifest.bin.json": "f3ca5b017d230920a3bab7a8fd1163c0",
+"assets/AssetManifest.json": "179fc5eb868e4f2229cf669a14eb3f02",
+>>>>>>> 851cd5e (Make New Changes on Portfolio)
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
 "assets/NOTICES": "0d2ae80398ba47954e44251263ae1704",
@@ -105,7 +118,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "2b0b6fc2bccfc0cff5793bdddb49d116",
+=======
+"flutter_bootstrap.js": "f3710a11b85d4328404e17ddfffb276b",
+>>>>>>> 851cd5e (Make New Changes on Portfolio)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -113,7 +130,11 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "icons/pp.png": "fdaaddd38cfe3e814fea52299639dc9e",
 "index.html": "dac9641931ebe6c4147ea9dc7531065f",
 "/": "dac9641931ebe6c4147ea9dc7531065f",
+<<<<<<< HEAD
 "main.dart.js": "5289ad5331ea35ee65928697b6bdb425",
+=======
+"main.dart.js": "678c254cc2551a13ac0f32367897c24a",
+>>>>>>> 851cd5e (Make New Changes on Portfolio)
 "manifest.json": "d40c47d1c161f94dbcb13094d37f1f55",
 "version.json": "cc1fa9cce5af273c0909d105387fee89"};
 // The application shell files that are downloaded before a service worker can
